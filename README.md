@@ -5,7 +5,6 @@
 ## Languages and Tools
 ![python](https://img.shields.io/badge/python-222324?style=for-the-badge&logo=python&logoColor=yellow)
 ![django](https://img.shields.io/badge/django-222324?style=for-the-badge&logo=django&logoColor=0C9D58)
-![image](https://img.shields.io/badge/rest%20framework-222324?style=for-the-badge&logo=django&logoColor=FF2400)
 ![flask](https://img.shields.io/badge/flask-222324?style=for-the-badge&logo=flask&logoColor=)
 ![fastapi](https://img.shields.io/badge/fastapi-222324?style=for-the-badge&logo=fastapi&logoColor=)
 ![scrapy](https://img.shields.io/badge/scrapy-222324?style=for-the-badge&logo=searxng&logoColor=brown)
