@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![image](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg)
+
 ## Hello world 👋
 
 ![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/python-progress.gif)
