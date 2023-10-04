@@ -1,8 +1,10 @@
 <div align="center">
 
 ## Hello world 👋
-![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/progress.gif)
 </div>
+
+![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/progress.gif)
+
 
 ### About me:
 ### I'm a beginner Python developer 👨🏻‍💻
