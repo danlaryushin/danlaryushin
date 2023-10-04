@@ -1,10 +1,15 @@
 <div align="center">
 
-### Hello world 👋
+## Hello world 👋
+![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/progress.gif)
+</div>
 
+### About me:
 ### I'm a beginner Python developer 👨🏻‍💻
 
-## Languages and Tools
+## Languages and Tools:
+<div align="center">
+
 ![python](https://img.shields.io/badge/python-222324?style=for-the-badge&logo=python&logoColor=yellow)
 
 ![django](https://img.shields.io/badge/django-222324?style=for-the-badge&logo=django&logoColor=0C9D58)
