@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
 
@@ -6,8 +6,8 @@
 # Hello world 👋
 
 ![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/python-progress.gif)
-</div>
-<div align="center">
+
+
 
 ## 👨🏻‍💻 About me:
 
@@ -17,8 +17,8 @@
 
 <img src="https://media.giphy.com/media/J270fNs8aSnNHJL9RY/giphy.gif" width="25">I have a passion for learning new things and I dive deep into it whith interest.
 
-</div>
-<div align="center">
+
+
 
 ## 🛠️ Languages and Tools:
 
@@ -53,4 +53,3 @@
 [![telegram](https://img.shields.io/badge/telegram-222324?style=for-the-badge&logo=telegram)](https://t.me/dan_laryushin)
 [![vk](https://img.shields.io/badge/вконтакте-222324?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/dan_laryushin)
 [![instagram](https://img.shields.io/badge/instagram-222324?style=for-the-badge&logo=instagram)](https://instagram.com/dan_laryushin)
-</div>
