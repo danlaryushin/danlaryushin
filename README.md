@@ -3,16 +3,25 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
 
 
-## Hello world 👋
+# Hello world 👋
 
 ![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/python-progress.gif)
 </div>
-
-### About me:
-### I'm a beginner Python developer 👨🏻‍💻
-
-## Languages and Tools:
 <div align="center">
+
+## 👨🏻‍💻 About me:
+
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"> My name is Daniil and I'm a Python developer from Russia.
+
+<img src="https://media.giphy.com/media/ch22fwQ4h5YyPNccHB/giphy.gif" width="15">I'm a creative individual, and Python provides me with a canvas for creativity.
+
+<img src="https://media.giphy.com/media/J270fNs8aSnNHJL9RY/giphy.gif" width="25">I have a passion for learning new things and I dive deep into it whith interest.
+
+</div>
+<div align="center">
+
+## 🛠️ Languages and Tools:
+
 
 ![python](https://img.shields.io/badge/python-222324?style=for-the-badge&logo=python&logoColor=yellow)
 
