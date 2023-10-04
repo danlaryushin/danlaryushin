@@ -2,7 +2,7 @@
 
 ## Hello world 👋
 
-![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/progress.gif)
+![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/python-progress.gif)
 </div>
 
 ### About me:
