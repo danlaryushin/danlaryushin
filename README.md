@@ -1,10 +1,9 @@
 <div align="center">
 
 ## Hello world 👋
-</div>
 
 ![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/progress.gif)
-
+</div>
 
 ### About me:
 ### I'm a beginner Python developer 👨🏻‍💻
