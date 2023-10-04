@@ -3,7 +3,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
 
 
-# Hello world 👋
+# Hello World 👋
 
 ![image](https://github.com/danlaryushin/danlaryushin/blob/main/asserts/python-progress.gif)
 </div>
