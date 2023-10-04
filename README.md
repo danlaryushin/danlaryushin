@@ -1,4 +1,6 @@
-<div align="center">### Hello world 👋
+<div align="center">
+
+### Hello world 👋
 
 ### I'm a beginner Python developer 👨🏻‍💻
 
