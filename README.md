@@ -1,7 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
 
-![image](https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg)
 
 ## Hello world 👋
 
