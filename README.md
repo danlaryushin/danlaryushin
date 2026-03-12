@@ -25,20 +25,23 @@
 
 ![python](https://img.shields.io/badge/python-222324?style=for-the-badge&logo=python&logoColor=yellow)
 
+![fastapi](https://img.shields.io/badge/fastapi-222324?style=for-the-badge&logo=fastapi&logoColor=)
 ![django](https://img.shields.io/badge/django-222324?style=for-the-badge&logo=django&logoColor=0C9D58)
 ![flask](https://img.shields.io/badge/flask-222324?style=for-the-badge&logo=flask&logoColor=)
-![fastapi](https://img.shields.io/badge/fastapi-222324?style=for-the-badge&logo=fastapi&logoColor=)
-![sqlite](https://img.shields.io/badge/sqlite-222324?style=for-the-badge&logo=sqlite)
 ![postgresql](https://img.shields.io/badge/postgresql-222324?style=for-the-badge&logo=postgresql&logoColor=)
 ![sqlalchemy](https://img.shields.io/badge/sql%20alchemy-222324?style=for-the-badge&logo=alchemy&logoColor=)
 ![pydantic](https://img.shields.io/badge/pydantic-222324?style=for-the-badge&logo=pydantic&logoColor=FF1493)
+![redis](https://img.shields.io/badge/redis-222324?style=for-the-badge&logo=redis)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-222324?style=for-the-badge&logo=rabbitmq)
+![kafka](https://img.shields.io/badge/kafka-222324?style=for-the-badge&logo=apache-kafka)
 
-![aiogram](https://img.shields.io/badge/aiogram-222324?style=for-the-badge&logo=telegram&logoColor=)
-![openai](https://img.shields.io/badge/openai-222324?style=for-the-badge&logo=openai&logoColor=)
+
+![pytest](https://img.shields.io/badge/pytest-222324?style=for-the-badge&logo=pytest)
 ![docker](https://img.shields.io/badge/docker-222324?style=for-the-badge&logo=docker&logoColor=)
+![ci/cd](https://img.shields.io/badge/ci/cd-222324?style=for-the-badge&logo=githubactions&logoColor=)
+![kubernetes](https://img.shields.io/badge/kubernetes-222324?style=for-the-badge&logo=kubernetes&logoColor=)
 ![nginx](https://img.shields.io/badge/nginx-222324?style=for-the-badge&logo=nginx&logoColor=green)
 ![gunicorn](https://img.shields.io/badge/gunicorn-222324?style=for-the-badge&logo=gunicorn&logoColor=)
-![githubactions](https://img.shields.io/badge/githubactions-222324?style=for-the-badge&logo=githubactions&logoColor=)
 ![linux](https://img.shields.io/badge/linux-222324?style=for-the-badge&logo=linux&logoColor=)
 
 
