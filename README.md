@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About me:
 
-<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"> My name is Daniil and I'm a Python developer from Russia.
+<img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="30"> My name is Daniil and I'm a Python Backend Developer.
 
 <img src="https://media.giphy.com/media/ch22fwQ4h5YyPNccHB/giphy.gif" width="15">I'm a creative individual, and Python provides me with a canvas for creativity.
 
