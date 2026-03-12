@@ -28,15 +28,18 @@
 ![fastapi](https://img.shields.io/badge/fastapi-222324?style=for-the-badge&logo=fastapi&logoColor=)
 ![django](https://img.shields.io/badge/django-222324?style=for-the-badge&logo=django&logoColor=0C9D58)
 ![flask](https://img.shields.io/badge/flask-222324?style=for-the-badge&logo=flask&logoColor=)
-![postgresql](https://img.shields.io/badge/postgresql-222324?style=for-the-badge&logo=postgresql&logoColor=)
 ![sqlalchemy](https://img.shields.io/badge/sql%20alchemy-222324?style=for-the-badge&logo=alchemy&logoColor=)
 ![pydantic](https://img.shields.io/badge/pydantic-222324?style=for-the-badge&logo=pydantic&logoColor=FF1493)
+![pytest](https://img.shields.io/badge/pytest-222324?style=for-the-badge&logo=pytest)
+![pandas](https://img.shields.io/badge/pandas-222324?style=for-the-badge&logo=pandas)
+
+![postgresql](https://img.shields.io/badge/postgresql-222324?style=for-the-badge&logo=postgresql&logoColor=)
 ![redis](https://img.shields.io/badge/redis-222324?style=for-the-badge&logo=redis)
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-222324?style=for-the-badge&logo=rabbitmq)
 ![kafka](https://img.shields.io/badge/kafka-222324?style=for-the-badge&logo=apache-kafka)
+![clickhouse](https://img.shields.io/badge/clickhouse-222324?style=for-the-badge&logo=clickhouse)
 
 
-![pytest](https://img.shields.io/badge/pytest-222324?style=for-the-badge&logo=pytest)
 ![docker](https://img.shields.io/badge/docker-222324?style=for-the-badge&logo=docker&logoColor=)
 ![ci/cd](https://img.shields.io/badge/ci/cd-222324?style=for-the-badge&logo=githubactions&logoColor=)
 ![kubernetes](https://img.shields.io/badge/kubernetes-222324?style=for-the-badge&logo=kubernetes&logoColor=)
